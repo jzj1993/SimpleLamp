@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">SimpleLamp</string>
+    <string name="no_camera">您的设备上没有摄像头\n（～￣▽￣～）</string>
+    <string name="no_flash_light">您的设备上似乎没有检测到闪光灯\n（～￣▽￣～）</string>
+    <string name="torch_mode_unsupport">您的设备似乎不支持闪光灯手电筒\n（～￣▽￣～）</string>
+    <string name="camera_occupied">主人，摄像头被其他程序占用了\n残忍的关掉它吧 ⊙▽⊙</string>
+    <string name="error">不好意思，发生了错误 &gt;﹏&lt;</string>
+    <string name="light_on">主人，手电筒已打开 ~\\(≧▽≦)/~</string>
+    <string name="light_off">主人，手电筒已关闭 ╮(￣▽￣)╭</string>
+    <string name="noti_text">手电筒正在运行，戳我可关闭  &gt;﹏&lt;</string>
+
+</resources>
